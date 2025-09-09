@@ -2,7 +2,7 @@ This repository contains the code underlying the note "[How Many Jobs Can be Don
 This is a complete replication package that produces all results from scratch,
 beginning with [code](downloaddata/code/Makefile) that downloads all the required data from [bls.gov](https://www.bls.gov/) and [onetcenter.org](https://www.onetcenter.org/).
 
-
+ 
 ## Results
 
 If you simply want to download our results without running any replication code, you can grab the following CSV files:
